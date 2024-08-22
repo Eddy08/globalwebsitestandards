@@ -4,3 +4,4 @@ Example:
 1. (industry) Health Industry
 2. (region) EU
 3. (act) HIPAA
+We want to create a graph network interconnecting all of these to show intersection, union, substitution etc.
