@@ -5,3 +5,6 @@ Example:
 2. (region) EU
 3. (act) HIPAA
 We want to create a graph network interconnecting all of these to show intersection, union, substitution etc.
+
+
+# Fetch Data from some of the open source libraries that are present on github.
