@@ -1,5 +1,6 @@
 # Global Website Standards
-## Purpose:
+## Purpose: 
+Ability to Achieve maximum certification and standards on website.
 ## What are the different Website Standards that are being used in Websites related to different set of Industries & Regions Around the Globe in their website and their Country Acts:
 Example:
 1. (industry) Health Industry
