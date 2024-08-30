@@ -12,4 +12,7 @@ We want to create a graph network interconnecting all of these to show intersect
 
 # Fetch Data from some of the open source libraries that are present on github.
 
+USA Acts:
+
 FERPA: Family Educational Rights and Privacy Act
+HIPAA: Health Insurance Portability Accountability Act
