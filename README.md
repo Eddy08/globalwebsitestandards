@@ -9,6 +9,8 @@ Example:
 We want to create a graph network interconnecting all of these to show intersection, union, substitution etc.
 ## How can we make our website in such a way that it is 100% compatible with that country and thus data transperancy is assured.
 
+## Example of website that uses it : https://aisera.com/platform/security-and-compliance/
+
 
 # Fetch Data from some of the open source libraries that are present on github.
 
